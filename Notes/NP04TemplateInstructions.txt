@@ -1,0 +1,19 @@
+The "runD_XXXXXX.dat" file needs to be copied to the same area in which the NP04Template_MT2022_ForStudents.ipynb (Juypter notebook file) exists
+
+On this machine, opening Jupyter notebook is a little different.
+
+
+To open the Jupyter notebook, "Windows Start Menu > Anaconda 3 > Anaconda Powershell Prompt" on the this computer.
+Type "H:" (without the "") then hit enter [then hitting "ls" will show the contents of the H drive. "cd" also works here to move directorys for those familiar with linux]
+Locate the directory which has the Jupyter notebook in it
+Type "jupyter notebook" and hit enter
+ 
+This opens a terminal and about 30 seconds later Firefox(or Edge) opens into the standard Juypter notebook fashion.
+
+Locate the NP04Template_MT2022_ForStudents.ipynb file and open.
+
+Modify the run number (currently given in the top of the notebook i.e. FileName = 'runD_934002.dat') to the "runD_XXXXXX.dat" file which was copied to the "desk" computer.
+
+Modify the dummy variables (10000, -10000) to optimise cuts to select the stopping muon events whilst minimising the uncorrelated and through-going events.
+
+

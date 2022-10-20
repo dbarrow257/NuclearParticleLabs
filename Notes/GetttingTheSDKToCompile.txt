@@ -1,0 +1,6 @@
+Giles gave me an XML file (https://github.com/picotech/picosdk-c-examples/blob/master/ps5000a/ps5000aCon/ps5000aCon.vcxproj) for the original PS5000a software. 
+I pasted this into a .txt file, modified it by including the *_prog34_* and then changed it's extension back to .vcxproj
+Also need to modify the x86->x64 compiler
+
+Last edits were to add timing and rate information to output
+(Also fixed the incorrect logic on the 'if' statement which checked the channel in NP08PeakFind5)

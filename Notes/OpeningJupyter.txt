@@ -1,0 +1,20 @@
+***** "Desk computers" *****
+  
+To open the Juypter notebook, "Windows Start Menu > Anaconda 3 > Juypter Notebook" on the "desk" computers. 
+This opens a terminal and about 30 seconds later Firefox opens into the standard Juypter notebook fashion.
+Locate the NP08Template_MT2022_ForStudents.ipynb file and open
+
+***** NP04 (PTLTW56) *****
+
+To open the Jupyter notebook, "Windows Start Menu > Anaconda 3 > Anaconda Powershell Prompt" on the this computer.
+Type "H:" (without the "") then hit enter [then hitting "ls" will show the contents of the H drive. "cd" also works here to move directorys for those familiar with linux]
+Locate the directory which has the Jupyter notebook in it
+Type "jupyter notebook" and hit enter
+ 
+This opens a terminal and about 30 seconds later Firefox(or Edge) opens into the standard Juypter notebook fashion.
+
+Locate the NP04Template_MT2022_ForStudents.ipynb file and open.
+
+***** Machine next to NP09 *****
+
+Seeminly this machine doesn't have Jupyter at all - So the current students have taken to using google colab using the old style approach from MT2021

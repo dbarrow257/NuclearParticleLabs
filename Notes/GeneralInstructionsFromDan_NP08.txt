@@ -1,0 +1,14 @@
+Machines with Picoscope (SDK) software [PTLWT34 etc.] do not have Juypter installed, only the "desk" computers have Juypter notebooks
+
+The "runD_XXXXXX.dat" file needs to be copied to the "desk" computers, which can be done through the home directory. For me, this is using "barrowd".
+
+To open the Juypter notebook, "Windows Start Menu > Anaconda 3 > Juypter Notebook" on the "desk" computers. 
+This opens a terminal and about 30 seconds later Firefox opens into the standard Juypter notebook fashion.
+
+Locate the NP08Template_MT2022_ForStudents.ipynb file and open
+
+Modify the run number (given in the top of the notebook which is currently FileName = 'runD_934002.dat') to the "runD_XXXXXX.dat" file which was copied to the "desk" computer
+
+Modify the dummy variables to optimise cuts to select the stopping muon events whilst minimising the uncorrelated and through-going events
+
+
