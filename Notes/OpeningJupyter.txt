@@ -1,9 +1,9 @@
-***** Juypter Notebooks *****
+***** Jupyter Notebooks *****
 
 To open the Jupyter notebook, "Windows Start Menu > Anaconda 3 > Anaconda Powershell Prompt" on the this computer.
 Type "H:" (without the "") then hit enter [then hitting "ls" will show the contents of the H drive ["cd" also works here to move directories for those familiar with linux]
 Type "jupyter notebook" and hit enter
  
-This opens a terminal and about 30 seconds later Firefox(or Edge) opens into the standard Juypter notebook fashion.
+This opens a terminal and about 30 seconds later Firefox(or Edge) opens into the standard Jupyter notebook fashion.
 
 Locate the NP0{4,8}_ForStudents.ipynb file and open.
